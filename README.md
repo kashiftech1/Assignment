@@ -1,2 +1,2 @@
-# Assignment 1 and 2
+# Assignments 1 and 2
 python Assignments
